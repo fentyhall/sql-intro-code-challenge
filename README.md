@@ -1,4 +1,4 @@
-# Ruby Object Orientation
+# Intro to Databases & SQL
 
 ## Part 1: Conceptual questions
 1. Why do our applications need databases?
